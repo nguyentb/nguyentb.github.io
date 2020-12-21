@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Short Bio
 ======
 I'm currently a Research Associate at [Data Science Institute, Imperial College London, United Kingdom](http://www.imperial.ac.uk/data-science/).
 
