@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-======
 I'm currently a Research Associate at [Data Science Institute, Imperial College London, United Kingdom](http://www.imperial.ac.uk/data-science/).
 
-My research interests are including, but not limited to, Blockchain Technology, Personal Data Management, Security, Privacy and Trust in the Internet of Things. Research collaboration is greatly appreciated, particularly on Blockchain-related topics. I can be reached anytime at [N.TRUONG Imperial College Email](mailto:n.truong@imperial.ac.uk?subject=[ResearchCollaboration]FromAcademicWebpage). My publication can be found at [Google Scholar](https://scholar.google.com/citations?user=mj4CTOgAAAAJ&hl=en).
+My research interests are including, but not limited to, Blockchain Technology, Personal Data Management, Security, Privacy and Trust in the Internet of Things. Research collaboration is greatly appreciated, particularly on Blockchain-related topics. I can be reached anytime at [N.TRUONG Imperial College Email](mailto:n.truong@imperial.ac.uk?subject=[Research%20Collaboration]Inquiry%20From%20Academic%20Webpage). My publication can be found at [Google Scholar](https://scholar.google.com/citations?user=mj4CTOgAAAAJ&hl=en).
 
 Prior to the current position, I received my Ph.D. and Master degrees from [Liverpool John Moores University (LJMU), United Kingdom](https://www.ljmu.ac.uk/) and [Pohang University of Science and Technology (POSTECH), Korea](http://postech.ac.kr/eng/) in 2018 and 2012, respectively.
 
