@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nguyen Truong Academic Webpage"
+title                    : "N.Truong Academic Website"
 title_separator          : "-"
 name                     : &name "Nguyen Truong"
-description              : &description "Homepage"
+description              : &description "N.Truong Academic Website"
 url                      : https://nguyentb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nguyentb/nguyentb.github.io"
