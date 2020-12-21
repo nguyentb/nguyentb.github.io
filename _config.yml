@@ -82,14 +82,10 @@ analytics:
 author:
   name             : "Nguyen Truong"
   avatar           : "profile.png"
-  bio              : "I'm currently a Research Associate at the Data Science Institute, Department of Computing, Imperial College London, United Kingdom.
-My research interests are including, but not limited to, Blockchain Technology, Personal Data Management, Security, Privacy and Trust in the Internet of Things. Research collaboration is greatly appreciated, particularly on Blockchain-related topics. I can be reached anytime at n.truong@imperial.ac.uk. My publication profile can be found at Google Scholar. 
-Prior to the current position, I received my Ph.D. and Master degrees from Liverpool John Moores University (LJMU), United Kingdom and Pohang University of Science and Technology (POSTECH), Korea in 2018 and 2012, respectively.
-Regarding to industry experience, I was a Software Engineer at DASAN Networks, a leading company on Networking Products and Services in Korea from 2012 to 2015, working on the design and development of the IEEE 802.11ac MAC protocols. I was also working as a full-stack software developer at Toshiba Software in Hanoi, Vietnam from 2008 to 2009.
-"
-  location         : "Location"
+  bio              : "Research Associate @Data Science Institute, Imperial College London."
+  location         : "South Kensington, London"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mj4CTOgAAAAJ&hl=en"
   email            : "n.truong@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
