@@ -20,16 +20,16 @@ Research Interest
 ======
 1. Data Managemenet, Data Privacy and Security
     1. Decentralising Data Management
-    1. Privacy in Distributed Learning and Federated Learning
-    1. Advanced Cryptography for Data Privacy and Security
-    1. Blockchain-based Data Management
+    2. Privacy in Distributed Learning and Federated Learning
+    3. Advanced Cryptography for Data Privacy and Security
+    4. Blockchain-based Data Management
 
 1. Blockchain and Smart Contract Technologies
     1. Consensus Mechanisms
-    1. Scalability and Latency in Blockchain systems
-    1. Security and Privacy in Blockchain systems
-    1. Storage constraints and off-chain storage techniques  
-    1. Applications and Services using Smart Contracts built on top of a Blockchain framework
+    2. Scalability and Latency in Blockchain systems
+    3. Security and Privacy in Blockchain systems
+    4. Storage constraints and off-chain storage techniques  
+    5. Applications and Services using Smart Contracts built on top of a Blockchain framework
 
 1. Internet of Things (IoT), Web of Things (WoT)
     1. Social Internet/Web of Things
