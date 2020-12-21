@@ -19,26 +19,26 @@ Regarding to industry experience, I was a Software Engineer at [DASAN Networks](
 Research Interest
 ======
 1. Data Managemenet, Data Privacy and Security
-  1. Decentralising Data Management
-  1. Privacy in Distributed Learning and Federated Learning
-  1. Advanced Cryptography for Data Privacy and Security
-  1. Blockchain-based Data Management
+    1. Decentralising Data Management
+    1. Privacy in Distributed Learning and Federated Learning
+    1. Advanced Cryptography for Data Privacy and Security
+    1. Blockchain-based Data Management
 
 1. Blockchain and Smart Contract Technologies
-  1. Consensus Mechanisms
-  1. Scalability and Latency in Blockchain systems
-  1. Security and Privacy in Blockchain systems
-  1. Storage constraints and off-chain storage techniques  
-  1. Applications and Services using Smart Contracts built on top of a Blockchain framework
+    1. Consensus Mechanisms
+    1. Scalability and Latency in Blockchain systems
+    1. Security and Privacy in Blockchain systems
+    1. Storage constraints and off-chain storage techniques  
+    1. Applications and Services using Smart Contracts built on top of a Blockchain framework
 
 1. Internet of Things (IoT), Web of Things (WoT)
-  1. Social Internet/Web of Things
-  1. Trust in IoT
-  1. Service provisioning for IoT/Web of Things using cloud computing and big data analytics
-  1. Interdisciplinary technologies based on typical use cases such as eHealth, smart city/building/home, networked vehicle, etc. 
+    1. Social Internet/Web of Things
+    1. Trust in IoT
+    1. Service provisioning for IoT/Web of Things using cloud computing and big data analytics
+    1. Interdisciplinary technologies based on typical use cases such as eHealth, smart city/building/home, networked vehicle, etc. 
 
 1. Network Evolution Strategies and Architecture for Next Generation Internet/Future Internet
-  1. New architecture design using software defined networking for smart ubiquitous networks
-  1. New concepts for networking: information centric networking, knowledge centric networking, future media Internet
-  1. Solutions to support ubiquitous networking for seamless interconnection between humans and objects
-  1. Next Generation Internet Protocol (IPv6)
+    1. New architecture design using software defined networking for smart ubiquitous networks
+    1. New concepts for networking: information centric networking, knowledge centric networking, future media Internet
+    1. Solutions to support ubiquitous networking for seamless interconnection between humans and objects
+    1. Next Generation Internet Protocol (IPv6)
