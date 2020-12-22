@@ -13,15 +13,11 @@ In recent years, along with the blooming of AI and Machine Learning-based applic
 [Download paper here](https://arxiv.org/pdf/2011.05411.pdf)
 
 Recommended citation [BibTeX]:
-
+```
 @article{truong2020privacy,
-
     title={Privacy Preservation in Federated Learning: Insights from the GDPR Perspective},
-
     author={Truong, Nguyen and Sun, Kai and Wang, Siyao and Guitton, Florian and Guo, Yike},
-
     journal={arXiv preprint arXiv:2011.05411},
-    
     year={2020}
-
 }
+```
